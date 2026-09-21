@@ -1,0 +1,11 @@
+venv
+.env
+botconfig/__pycache__/
+__pycache__/
+pixapi/__pycache__/
+instance/*.db
+*.pem
+*.key
+*.crt
+qrCodeImage.png
+data.txt
